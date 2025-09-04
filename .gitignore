@@ -1,0 +1,38 @@
+# KiCad backup and cache
+**/*-backups/
+**/*.zip
+**/fp-info-cache
+
+# KiCad autosave & recovery files
+*.bak
+*.tmp
+*.kicad_prl
+
+# Optional: ignore project-specific settings
+# (uncomment if you don't want to version project settings)
+# *.kicad_pro
+
+# KiCad generated files (plot, fabrication)
+*.net
+*.dcm
+*.cmp
+*.dsn
+*.gbr
+*.gbs
+*.gts
+*.gto
+*.gbl
+*.gtl
+*.gbo
+*.gto
+*.gko
+*.gpt
+*.pos
+*.drl
+*.rpt
+
+# KiCad 6/7 simulation & spice temp
+*.raw
+*.cir
+*.ac
+*.log
