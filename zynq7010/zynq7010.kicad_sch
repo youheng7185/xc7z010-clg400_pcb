@@ -11571,6 +11571,16 @@
 		)
 		(uuid "1febfcc0-fb5d-49be-8cf3-7fc74a92fc76")
 	)
+	(text "this 1v5 is actually 1.2v for ddr3l"
+		(exclude_from_sim no)
+		(at 157.988 317.754 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "545dead1-c652-45e1-950a-d3499ed9de77")
+	)
 	(text "power sequence: \n-1.0v\n-1.8v\n-3.3v and 1.5v together"
 		(exclude_from_sim no)
 		(at 46.736 242.316 0)
